@@ -10,7 +10,7 @@ The purpose of this project is to:
 This software allows users to **add and view
 ** their financial transactions. It also provides **interactive charts** to visualize spending habits, helping users make informed financial decisions.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=AA3If_EeMvo)
 
 ---
 
